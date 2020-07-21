@@ -1,0 +1,18 @@
+.filter {
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border: solid 1px teal;
+    border-radius: 40px;
+    width: 600px;
+    padding-left: 16px;
+    padding-top: 4px;
+}
+.filterButton{
+    padding: 2px 24px 2px 24px;
+    background-color: white;
+    color: black;
+    text-align: center;
+}

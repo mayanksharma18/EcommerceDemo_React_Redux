@@ -1,0 +1,65 @@
+.row {
+    width: 500px;
+    height: auto;
+    padding: 40px;
+    margin-top: 5%;
+    margin-left: 35%;
+    border: solid 2px #3ec9cb;
+    box-shadow: 10px 10px #3ec9cb;
+}
+ select,textarea {
+    margin-top: 4px;
+    margin-bottom: 12px;
+    color: blue;
+}
+input {
+    margin-top: 4px;
+    margin-bottom: 12px;
+    color: blue;
+    border-radius: 40px;
+    min-height: 24px;
+    padding-left: 12px;
+    border: solid 1px #3ec9cb;
+}
+
+input:focus{
+    outline: none;
+}
+.registration{
+    color: orange;
+    margin: 0px;
+    margin-bottom: 20px;
+}
+label{
+    color: black;
+    font-size: 16px;
+    font-weight: 600
+}
+.registerButton{
+    width: 150px;
+    margin-top:20px;
+    padding: 4px 0 4px 0;
+    border: solid 1px #3ec9cb;
+    border-radius: 40px;
+    text-align: center;
+    box-shadow: 3px 3px #3ec9cb;
+    background: white;
+    color: black;
+    font-weight: 600;
+    font-size: 14px
+}
+.buttonLink {
+  text-decoration: none;
+  color: black;
+}
+
+.checkbox{
+    margin-top: -2px;
+    margin-left: 14px;
+}
+.checkboxContainer{
+    display: flex;
+    flex-direction: row;
+    margin-top: 8px;
+    margin-left: 24px
+}
